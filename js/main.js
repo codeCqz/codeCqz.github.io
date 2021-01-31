@@ -80,6 +80,7 @@ document.addEventListener('DOMContentLoaded', function () {
  * 代碼
  * 只適用於Hexo默認的代碼渲染
  */
+
   const addHighlightTool = function () {
     const isHighlightCopy = GLOBAL_CONFIG.highlight.highlightCopy
     const isHighlightLang = GLOBAL_CONFIG.highlight.highlightLang
