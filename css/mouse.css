@@ -8,10 +8,14 @@ img {
     cursor: url(https://cdn.jsdelivr.net/gh/sviptzk/HexoStaticFile@latest/Hexo/img/pointer.cur),
         default;
 }
+#page-header {
+    background: transparent
+}
 
 .layout_post>#post {
-    background: rgba(255,255,255,0);
+    background: rgba(255,255,255,.5);
 }
+
 /* 页脚footer */
 /* 渐变色滚动动画 */
 /* @-webkit-keyframes Gradient {
