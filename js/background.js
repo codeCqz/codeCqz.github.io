@@ -3,6 +3,7 @@ var full_page = document.getElementsByClassName("full_page");
 if (full_page.length != 0) {
   full_page[0].style.background = "transparent";
 }
+
 // 分类卡片折叠
 var card_category_list = document.getElementsByClassName(
     "card-category-list child"
